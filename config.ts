@@ -67,6 +67,20 @@ export const config: Config = {
                         "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
                 },
             ]
+        }, {
+            category: "私人定制 规则",
+            items: [
+                {
+                    label: "定制-完整规则",
+                    value:
+                        "https://cf.210723.xyz"
+                },
+                {
+                    label: "定制-精简规则",
+                    value:
+                        "https://cf.210723.xyz/rule"
+                },
+            ]
         }
     ]
 }
