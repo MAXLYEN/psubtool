@@ -32,7 +32,7 @@ import { createShortSub } from "@/app/hooks/createShortSub";
 
 import { useTheme } from "next-themes"; // 导入 useTheme
 
-const backends = process.env.NEXT_PUBLIC_BACKENDS?.split('|') ?? ["http://127.0.0.1:25500/sub?"]
+const backends = process.env.NEXT_PUBLIC_BACKENDS?.split('|') ?? ["https://sub.dy.ax/sub?", "https://psub.29s.org/sub?"];
 const initialParams: Params = {
   mode: 'easy',
   subLink: '',
