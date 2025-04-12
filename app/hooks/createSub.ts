@@ -1,6 +1,6 @@
 import { config as cfg } from '@/config'
 
-const backends = process.env.NEXT_PUBLIC_BACKENDS?.split('|') ?? ["https://sub.dy.ax/sub?", "https://psub.29s.org/sub?"];
+const backends = process.env.NEXT_PUBLIC_BACKENDS?.split('|') ?? ["https://sub.dy.ax/sub?"]
 
 export const createSub = (params: Params) => {
     const { url, target, backend, mode, config, include, exclude, tfo, udp, scv, append_type, emoji, list } = params;
