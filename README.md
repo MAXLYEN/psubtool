@@ -3,7 +3,7 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyet-another-sub-web.vercel.app&style=flat-square&label=DEMO) ![Vercel](https://vercelbadge.vercel.app/api/DyAxy/yet-another-sub-web?style=flat-square) ![GitHub License](https://img.shields.io/github/license/DyAxy/yet-another-sub-web?style=flat-square)
 
-又一个 [sub-web](https://github.com/CareyWang/sub-web)，基于 React、Next.JS 实现前端，需要搭配 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) 后端来实现订阅配置。
+一个 [sub-web](https://github.com/CareyWang/sub-web)，基于 React、Next.JS 实现前端，需要搭配 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) 后端来实现订阅配置。
 
 ## 快速部署
 
