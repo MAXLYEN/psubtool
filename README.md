@@ -1,4 +1,5 @@
-# pSubTool 订阅转换前端(Forked from [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web))
+# pSubTool 订阅转换前端
+(Forked from [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web))
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyet-another-sub-web.vercel.app&style=flat-square&label=DEMO) ![Vercel](https://vercelbadge.vercel.app/api/DyAxy/yet-another-sub-web?style=flat-square) ![GitHub License](https://img.shields.io/github/license/DyAxy/yet-another-sub-web?style=flat-square)
 
