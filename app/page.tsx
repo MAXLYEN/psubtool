@@ -274,7 +274,7 @@ export default function Home() {
           </CardFooter>
         </Card>
         <p className="text-bold text-sm text-center">
-          Made with <SwitchTheme /> by <Link isExternal href="https://github.com/MAXLYEN/yet-another-sub-web">MAXLYEN</Link>.
+          Made with <SwitchTheme /> by <Link isExternal href="https://github.com/MAXLYEN/psubtool">MAXLYEN</Link>.
         </p>
       </div >
   );
